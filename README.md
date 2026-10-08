@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,100:312E81&height=190&section=header&text=Arkajit%20Adhikary&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Law%20Student%20%E2%80%A2%20Legal-Tech%20%26%20AI%20Builder%20%E2%80%A2%20Software%20Developer&descSize=16&descAlignY=60&animation=fadeIn" alt="Arkajit Adhikary" />
+# Arkajit Adhikary
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=8B5CF6&center=true&vCenter=true&width=760&height=45&lines=Law+%C3%97+AI+%C3%97+Privacy;Building+legal-tech+and+local+AI;Solving+real+problems%2C+not+collecting+demos" alt="Law x AI x Privacy" />
-
-<br/>
+**Law Student • Legal-Tech & AI Builder • Software Developer**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white)](https://arkajit-adhikary-portfolio.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arkajit-adhikary-9527aa35a)
@@ -12,7 +10,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:8B5CF6&height=2" />
+---
 
 I work at the intersection of **law, legal technology, AI and software engineering** — building tools for legal research and document work, privacy-focused software, and local AI systems. I care about solving real problems rather than collecting demos.
 
@@ -67,6 +65,12 @@ I work at the intersection of **law, legal technology, AI and software engineeri
 </tr>
 </table>
 
+## 🌐 Web & Product Work
+
+- **Aura Luxe** — a luxury beauty & cosmetics affiliate marketplace: product catalogue, lookbook, an AI routine quiz and multi-store price comparison. `React · Vite · Vercel · NeonDB`
+- **Wander Atlas** — a full-stack travel planner: per-country itineraries, a trip-cost calculator and an AI travel guide. `Python · Flask · Leaflet · Groq`
+- **Legum** — a website and admin panel built for a law coaching academy: courses, mock tests, student records and UPI payment verification. `Node.js · Express · SQLite`
+
 ## 🛠️ Stack
 
 **Languages** · Python, TypeScript, JavaScript, SQL, HTML / CSS
@@ -84,7 +88,7 @@ I work at the intersection of **law, legal technology, AI and software engineeri
 - Privacy and security engineering for the DARK DEVIL browser.
 - Improving grounding and evaluation for legal-AI output.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:8B5CF6&height=2" />
+---
 
 <div align="center">
 
