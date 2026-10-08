@@ -1,16 +1,18 @@
 <div align="center">
 
-# Arkajit Adhikary
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,100:312E81&height=190&section=header&text=Arkajit%20Adhikary&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Law%20Student%20%E2%80%A2%20Legal-Tech%20%26%20AI%20Builder%20%E2%80%A2%20Software%20Developer&descSize=16&descAlignY=60&animation=fadeIn" alt="Arkajit Adhikary" />
 
-**Law student building serious AI, legal-tech, privacy and software products.**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=8B5CF6&center=true&vCenter=true&width=760&height=45&lines=Law+%C3%97+AI+%C3%97+Privacy;Building+legal-tech+and+local+AI;Solving+real+problems%2C+not+collecting+demos" alt="Law x AI x Privacy" />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://arkajit-adhikary-portfolio.vercel.app)
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white)](https://arkajit-adhikary-portfolio.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arkajit-adhikary-9527aa35a)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arkajitadhikary@gmail.com)
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:8B5CF6&height=2" />
 
 I work at the intersection of **law, legal technology, AI and software engineering** — building tools for legal research and document work, privacy-focused software, and local AI systems. I care about solving real problems rather than collecting demos.
 
@@ -27,14 +29,14 @@ I work at the intersection of **law, legal technology, AI and software engineeri
 
 </div>
 
-## Current Focus
+## ⚖️ Current Focus
 
 - **Legal AI** — legal research and document intelligence
 - **Privacy & security** — a privacy-focused browser and local-first workflows
 - **Local AI** — assistants that run on local models
 - **Developer tools** — AI-powered tooling for builders
 
-## Selected Projects
+## 🧩 Selected Projects
 
 <table>
 <tr>
@@ -65,7 +67,7 @@ I work at the intersection of **law, legal technology, AI and software engineeri
 </tr>
 </table>
 
-## Stack
+## 🛠️ Stack
 
 **Languages** · Python, TypeScript, JavaScript, SQL, HTML / CSS
 
@@ -77,10 +79,12 @@ I work at the intersection of **law, legal technology, AI and software engineeri
 
 **Tools** · Git, Docker, Tauri, Electron
 
-## Currently Building
+## 🔭 Currently Building
 
 - Privacy and security engineering for the DARK DEVIL browser.
 - Improving grounding and evaluation for legal-AI output.
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:8B5CF6&height=2" />
 
 <div align="center">
 
