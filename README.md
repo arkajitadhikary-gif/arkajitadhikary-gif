@@ -87,5 +87,3 @@ I work at the intersection of **law, legal technology, AI and software engineeri
 
 - Privacy and security engineering for the DARK DEVIL browser.
 - Improving grounding and evaluation for legal-AI output.
-
-<img src="./assets/footer.svg" alt="Open to collaboration on legal-tech, AI and privacy-focused software" width="100%" />
