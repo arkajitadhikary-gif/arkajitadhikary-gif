@@ -1,8 +1,6 @@
 <div align="center">
 
-# Arkajit Adhikary
-
-**Law Student • Legal-Tech & AI Builder • Software Developer**
+<img src="./assets/banner.svg" alt="Arkajit Adhikary — Law Student, Legal-Tech & AI Builder, Software Developer" width="100%" />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white)](https://arkajit-adhikary-portfolio.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arkajit-adhikary-9527aa35a)
@@ -10,7 +8,7 @@
 
 </div>
 
----
+<img src="./assets/divider.svg" alt="" width="100%" />
 
 I work at the intersection of **law, legal technology, AI and software engineering** — building tools for legal research and document work, privacy-focused software, and local AI systems. I care about solving real problems rather than collecting demos.
 
@@ -26,6 +24,8 @@ I work at the intersection of **law, legal technology, AI and software engineeri
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 </div>
+
+<img src="./assets/divider.svg" alt="" width="100%" />
 
 ## ⚖️ Current Focus
 
@@ -88,10 +88,4 @@ I work at the intersection of **law, legal technology, AI and software engineeri
 - Privacy and security engineering for the DARK DEVIL browser.
 - Improving grounding and evaluation for legal-AI output.
 
----
-
-<div align="center">
-
-<sub>Open to collaboration on legal-tech, AI and privacy-focused software.</sub>
-
-</div>
+<img src="./assets/footer.svg" alt="Open to collaboration on legal-tech, AI and privacy-focused software" width="100%" />
