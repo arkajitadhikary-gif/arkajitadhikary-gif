@@ -15,13 +15,6 @@ I work at the intersection of law, legal technology, AI and software engineering
 
 ## Selected Projects
 
-### Judicore — Indian judgment intelligence engine
-A legal research engine that retrieves judgments from primary Indian court sources and produces structured, source-grounded analyses (facts, issues, ratio decidendi, holdings) in a dual-pane reading studio, with PDF export.
-
-`Python · FastAPI · Groq LLM · document parsing · ReportLab`
-
-*Private project.*
-
 ### DARK DEVIL — privacy-focused Chromium browser
 A Windows browser built on a Chromium / Electron foundation, with ad and tracker blocking, native media playback, and an optional self-hosted metasearch.
 
@@ -66,7 +59,6 @@ Converts documents and PDFs into structured, normalised PostgreSQL tables with a
 
 ## Currently Building
 
-- Hardening the Judicore legal-research pipeline and widening its source coverage.
 - Privacy and security engineering for the DARK DEVIL browser.
 - Improving grounding and evaluation for legal-AI output.
 
