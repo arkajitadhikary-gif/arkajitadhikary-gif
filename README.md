@@ -2,53 +2,75 @@
 
 **Law student building serious AI, legal-tech, privacy and software products.**
 
-I work at the intersection of law and engineering — designing tools that make legal research and document work faster and more reliable, and building privacy-first software and local AI systems. My focus is on products that solve a real problem well, not on collecting demos.
+I work at the intersection of law, legal technology, AI and software engineering — building tools for legal research and document work, privacy-focused software, and local AI systems. I care about solving real problems rather than collecting demos.
 
 ---
 
-## Current focus
+## Current Focus
 
-- **Legal AI** — judgment intelligence, legal research and document processing for the Indian legal domain.
-- **Privacy & security tooling** — a sovereign, telemetry-free browser and local-first data workflows.
-- **Local AI agents** — autonomous assistants that run on your own machine.
+- Legal AI and legal research technology
+- Privacy- and security-focused software
+- Local AI systems and assistants
+- AI-powered developer tools
 
-## Selected projects
+## Selected Projects
 
-**Judicore — Indian judgment intelligence engine**
-A legal research engine that queries primary court repositories and synthesises verified, zero-hallucination judgment analyses with a dual-pane reading studio.
-`Python · FastAPI · LLM reasoning · document parsing`
+### Judicore — Indian judgment intelligence engine
+A legal research engine that retrieves judgments from primary Indian court sources and produces structured, source-grounded analyses (facts, issues, ratio decidendi, holdings) in a dual-pane reading studio, with PDF export.
 
-**DARK DEVIL — privacy-first Chromium browser**
-A hardware-accelerated browser built on a hardened Chromium/Electron foundation, with an ad/tracker engine and a zero-telemetry local metasearch.
+`Python · FastAPI · Groq LLM · document parsing · ReportLab`
+
+*Private project.*
+
+### DARK DEVIL — privacy-focused Chromium browser
+A Windows browser built on a Chromium / Electron foundation, with ad and tracker blocking, native media playback, and an optional self-hosted metasearch.
+
 `Electron · Chromium · JavaScript`
 
-**JARVIS — local autonomous assistant**
-A fully local personal AI: multi-step planning, Windows automation, hybrid RAG, multi-tier memory and voice interaction, running on local models.
-`Python · Ollama · local LLM`
+*Private project.*
 
-**RepoFinder — AI repository architect**
-Describe what you want to build and it decomposes the architecture, finds the best open-source repositories and generates an implementation blueprint.
-`Next.js · TypeScript · LLM`
+### JARVIS — local AI assistant
+A local AI assistant that runs on local models via Ollama, plans multi-step tasks, automates Windows, and combines hybrid retrieval with tiered memory and voice output.
 
-**Database Builder — document intelligence**
-Converts any PDF or document into a structured, normalised PostgreSQL database with an interactive spreadsheet studio and SQL/CSV/JSON export.
-`Python · FastAPI · React · Tauri`
+`Python · Ollama · local LLM · RAG`
 
-## Technical skills
+*Private project.*
+
+### RepoFinder — AI repository architect
+Describe a project idea and RepoFinder breaks it into architectural layers, finds relevant open-source repositories, and generates an implementation blueprint. Includes repository comparison and an in-app code explorer.
+
+`Next.js · TypeScript · Tailwind CSS · Groq LLM`
+
+[github.com/arkajitadhikary-gif/repo-finder](https://github.com/arkajitadhikary-gif/repo-finder)
+
+### Database Builder — document intelligence
+Converts documents and PDFs into structured, normalised PostgreSQL tables with an interactive spreadsheet studio and SQL, CSV and JSON export.
+
+`Python · FastAPI · React · Tauri · PostgreSQL`
+
+[github.com/arkajitadhikary-gif/Database-builder](https://github.com/arkajitadhikary-gif/Database-builder)
+
+## Technical Skills
 
 **Languages:** Python, TypeScript / JavaScript, SQL, HTML / CSS
-**AI & LLM:** LLM application design, RAG, vector search, prompt engineering, multi-source research pipelines, local models (Ollama)
-**Web & APIs:** FastAPI, Node.js / Express, Next.js, React
-**Data:** PostgreSQL, SQLite, ChromaDB, document parsing and extraction
-**Tooling:** Git, Docker, Electron / Chromium, Linux & Windows automation
 
-## Currently building / learning
+**AI / LLM:** LLM application design, retrieval-augmented generation, vector search, local models (Ollama), Groq
 
-- Hardening the Judicore legal-research pipeline and expanding its coverage.
+**Web / Backend:** FastAPI, Flask, Node.js / Express, Next.js, React
+
+**Databases:** PostgreSQL, SQLite, ChromaDB
+
+**Developer tools:** Git, Docker, Tauri, Electron
+
+**Systems / Automation:** Windows automation, Chromium / Electron, Linux
+
+## Currently Building
+
+- Hardening the Judicore legal-research pipeline and widening its source coverage.
 - Privacy and security engineering for the DARK DEVIL browser.
-- Better evaluation and grounding for legal-AI output.
+- Improving grounding and evaluation for legal-AI output.
 
-## Contact
+## Connect
 
 - **Email:** arkajitadhikary@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/arkajit-adhikary-9527aa35a
