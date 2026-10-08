@@ -51,8 +51,8 @@ Converts any PDF or document into a structured, normalised PostgreSQL database w
 ## Contact
 
 - **Email:** arkajitadhikary@gmail.com
-- **LinkedIn:** _to be added_
-- **Portfolio:** _to be added_
+- **LinkedIn:** https://www.linkedin.com/in/arkajit-adhikary-9527aa35a
+- **Portfolio:** https://arkajit-adhikary-portfolio.vercel.app
 
 ---
 
